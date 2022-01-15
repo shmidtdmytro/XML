@@ -1,1 +1,7 @@
-
+<summory>Items dont remove fast from the cart</summory>
+<preconditions>The item is in the cart</preconditions>
+<str>Delete item from the cart</str>
+<result>Item is still in the cart</result>
+<expectedresult>Selected item was deleted from the cart</expectedresult>
+<author>:Shmidt D.</author>
+<enviroment>Google Chorme v.95.0.4638.69</enviroment>
